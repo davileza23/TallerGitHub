@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Identity;
 
 namespace PartsUnlimited.Models
 {
+    //ajuste sobre esta rama release--davileza
     public class ApplicationUser : IdentityUser
     {
         public string Name { get; set; }
