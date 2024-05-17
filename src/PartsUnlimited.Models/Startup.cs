@@ -11,6 +11,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace PartsUnlimited.Models
 {
+    //ajuste 17052024 8.46 am
     public class Startup
     {
         public IConfiguration Configuration { get; private set; }
