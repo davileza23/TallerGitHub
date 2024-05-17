@@ -10,6 +10,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //ajustes 8.52 am 17052024
     public class Product
     {
         [Required]
