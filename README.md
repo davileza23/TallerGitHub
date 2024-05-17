@@ -2,6 +2,7 @@
 
 ##AJUSTE LOCAL EN RAMA RELEASE
 [cambio 2]
+
 [cambio 2.1]
 ##AJUSTE GIT EN RAMA MAIN
 
