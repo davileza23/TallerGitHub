@@ -5,7 +5,8 @@ using PartsUnlimited.Views;
 
 namespace PartsUnlimited.Droid
 {
-//Ajustes para verificar conflicto entre ramas-desde git
+    //ajustes desde vs code
+    //otro ajustes
     [Activity(Label = "PartsUnlimited", Icon = "@drawable/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
