@@ -1,6 +1,6 @@
 ﻿# How to contribute
 
-cambio A
+[cambio 3]
 
 cambio desde git
 cambio desde local
