@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
+    //ajuste 17052024 8.50am
     public class Category
     {
         public int CategoryId { get; set; }
