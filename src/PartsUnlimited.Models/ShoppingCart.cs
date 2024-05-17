@@ -9,6 +9,7 @@ using System.Linq;
 
 namespace PartsUnlimited.Models
 {
+      //Ajustes para  creacion de pull request entre ramas
     public partial class ShoppingCart
     {
         private readonly IPartsUnlimitedContext _db;
